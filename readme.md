@@ -1,1 +1,2 @@
-# activity-detection
+# activity-recognition
+
