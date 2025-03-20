@@ -1,6 +1,4 @@
-# Project Title
-
-Activity Recognition Deep Learning Model
+# Human Activity Recognition Deep Learning Model
 
 ## Table of Contents
 1. [Description](#description)
@@ -10,5 +8,5 @@ This repository contains a deep learning model designed for activity recognition
 
 ```bash
 # Installation
-git clone 
-cd 
+git clone git@github.com:chindanaitrakan/activity-recognition.git
+cd ~/activity-recognition
