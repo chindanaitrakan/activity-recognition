@@ -9,10 +9,10 @@ This repository contains a deep learning model designed for activity recognition
 ## Quick start
 There are 3 model architectures: DNN, CNN, and LSTM with the optimal parameter searched from Keras tuner. To train the models, try
 ```bash
-# Train models
-python train_dnn.py
 
-```bash
 # Installation
 git clone git@github.com:chindanaitrakan/activity-recognition.git
 cd ~/activity-recognition
+
+# Train models
+python train_dnn.py
